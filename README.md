@@ -24,7 +24,7 @@ PROJECT/
    └─ visualize_examples.py  # EAR vs time plot for a single video
 ```
 
-> If your path contains spaces (e.g., `D:\STUDY\BTH\LP1\SCIENTIFIC RESEARCH\PROJECT - Copy\`), commands still work—quote the paths when needed.
+
 
 ---
 
