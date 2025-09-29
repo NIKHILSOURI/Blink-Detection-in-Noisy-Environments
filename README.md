@@ -33,14 +33,10 @@ PROJECT/
 - **RT-BENE (Controlled eye-patch sequences + blink labels)** — Zenodo record (CSV labels `s000...s016_blink_labels.csv`).  
   https://zenodo.org/records/3685316
 
-- **NTHU Driver Drowsiness Detection (Noisy: illumination/occlusion scenarios)** — Official page (BareFace, Glasses, Sunglasses, Night).  
-  https://cv.cs.nthu.edu.tw/php/callforpaper/datasets/DDD/
 
 - **HUST-LEBW “Eyeblink in the Wild” (Noisy: movies, strong variability)** — Project page with dataset/code pointers.  
   https://thorhu.github.io/Eyeblink-in-the-wild/
 
-**Method reference (EAR):** Soukupová & Čech, “Real-Time Eye Blink Detection using Facial Landmarks,” CVWW 2016 (PDF).  
-https://vision.fe.uni-lj.si/cvww2016/proceedings/papers/05.pdf
 
 ---
 
