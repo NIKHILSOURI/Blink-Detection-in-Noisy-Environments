@@ -1,0 +1,12 @@
+fps_target: 30
+eye_crop_side: 96
+ear_smooth_win: 5
+blink_min_frames: 2        # minimum closed-frames to count as blink
+blink_merge_gap: 3         # merge tiny gaps between closures
+baseline:
+  short_sec: 30
+  extended_sec: 90
+paths:
+  controlled_dir: "data/controlled"
+  noisy_dir: "data/noisy"
+  outputs: "outputs"
